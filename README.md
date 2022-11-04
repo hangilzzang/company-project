@@ -20,3 +20,6 @@ streamlit [링크](https://hangilzzang-hoho-ftg-streamlit-aa0ayp.streamlitapp.co
 해당 기업의 데이터가 포함되어있어 코드를 보여드리지 못하는것을 정말 아쉽게 생각합니다 
 
 <img width="798" alt="스크린샷 2022-11-04 오후 12 57 29" src="https://user-images.githubusercontent.com/104988924/199882447-b8e8ef91-766d-4351-83a7-4186e7a9301c.png">
+
+<img width="1451" alt="스크린샷 2022-11-04 오후 12 58 46" src="https://user-images.githubusercontent.com/104988924/199882617-dd5bc312-c654-4017-a144-bf19928df52e.png">
+
